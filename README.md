@@ -1,2 +1,2 @@
 # AI-ML
-Artificial Intelliugence &amp; Machine Learning
+Artificial Intelligence &amp; Machine Learning
